@@ -101,5 +101,5 @@ class TextLogViewController: UIViewController {
 
 ```
 
-[Para ver demos]: https://github.com/PureLayout/PureLayout/tree/master/PureLayout/Example-iOS
-[La librería]: https://github.com/PureLayout/PureLayout/
+[Para ver demos](https://github.com/PureLayout/PureLayout/tree/master/PureLayout/Example-iOS)
+[La librería](https://github.com/PureLayout/PureLayout/)
